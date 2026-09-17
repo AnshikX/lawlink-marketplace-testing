@@ -1,0 +1,13 @@
+{
+  "name": "lawlink",
+  "owner": {
+    "name": "LawLink"
+  },
+  "plugins": [
+    {
+      "name": "lawlink",
+      "source": "./plugins/lawlink",
+      "description": "LawLink legal platform integration — connector plus workflow skills."
+    }
+  ]
+}

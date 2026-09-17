@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lawlink": {
+      "type": "http",
+      "url": "https://zebra-tasting-outscore.ngrok-free.dev/mcp"
+    }
+  }
+}
